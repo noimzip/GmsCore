@@ -406,4 +406,8 @@
     <string name="location_sharing_confirm_dialog_title">位置情報の共有を有効にする</string>
     <string name="location_sharing_confirm_dialog_text">位置情報を共有している相手には常に以下の情報が表示されます：\n・あなたの名前と写真\n・Googleサービスを利用していない場合でも、端末の直近の位置情報\n・端末のバッテリー残量と充電中かどうか\n・位置情報共有通知を追加した場合の到着時刻と出発時刻</string>
     <string name="games_change_per_game_dialog_title">このゲームのオプションを選択してください</string>
+    <string name="service_name_device_attestation">デバイス認証</string>
+    <string name="prefcat_device_attestation_apps_title">デバイス認証を使用するアプリ</string>
+    <string name="pref_device_attestation_app_allow_requests_title">リクエストを許可</string>
+    <string name="pref_device_attestation_app_allow_requests_summary">アプリにデバイス認証のリクエストを許可する</string>
 </resources>
